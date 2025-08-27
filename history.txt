@@ -1,0 +1,500 @@
+  810  cd build/
+  811  cmake --build .
+  812  ./wektory 
+  813  ls
+  814  ./wektory 
+  815  cd ..
+  816  ls
+  817  vim wektory.cpp 
+  818  ls
+  819  cd build/
+  820  cmake --build .
+  821  ./wektory 
+  822  ls
+  823  cd ..
+  824  vim wektory.cpp 
+  825  cd build/
+  826  cmake --build .
+  827  ls
+  828  cd ..
+  829  vim wektory.cpp 
+  830  cd ..
+  831  cd zadanie8
+  832  ls
+  833  cat for_kolekcja.cpp 
+  834  cd ..
+  835  cd zadanie9
+  836  vim wektory.cpp 
+  837  cd build/
+  838  cmake --build .
+  839  cd ..
+  840  vim wektory.cpp 
+  841  cd build
+  842  cmake --build .
+  843  ./wektory 
+  844  cd .
+  845  cd ..
+  846  vim wektory.cpp 
+  847  cd build/
+  848  cmake --build .
+  849  cd ..
+  850  vim wektory.cpp 
+  851  cd ..
+  852  cd zadanie9
+  853  cd build/
+  854  cmake --build .
+  855  cd ..
+  856  vim wektory.cpp 
+  857  cd build/
+  858  cmake --build .
+  859  cd ..
+  860  vim wektory.cpp 
+  861  cd build/
+  862  cmake --build .
+  863  cd ..
+  864  ls
+  865  vim wektory.cpp 
+  866  cd build/
+  867  cmake --build .
+  868  ./wektory 
+  869  cd ..
+  870  ls
+  871  vim wektory.cpp 
+  872  cd build/
+  873  cmake --build .
+  874  ./wektory 
+  875  cd ..
+  876  ls
+  877  vim wektory.cpp 
+  878  cd build/
+  879  cmake --build .
+  880  ./wektory 
+  881  cd ..
+  882  vim wektory.cpp 
+  883  cd build/
+  884  cmake --build .
+  885  ./wektory 
+  886  cd ..
+  887  ls
+  888  vim wektory.cpp 
+  889  cd build/
+  890  cmake --build .
+  891  ./wektory 
+  892  cd ..
+  893  ls
+  894  vim wektory.cpp 
+  895  cd build/
+  896  cmake --build .
+  897  ./wektory 
+  898  cd ..
+  899  ls
+  900  vim wektory.cpp 
+  901  cd build/
+  902  cmake --build .
+  903  ./wektory 
+  904  cd ..
+  905  ls
+  906  vim wektory.cpp 
+  907  cd ..
+  908  cd zadanie9
+  909  cd build/
+  910  cmake --build .
+  911  ./wektory 
+  912  cd ..
+  913  ls
+  914  vim wektory.cpp 
+  915  cd build/
+  916  cmake --build .
+  917  cd ..
+  918  vim wektory.cpp 
+  919  cd build/
+  920  cmake --build .
+  921  cd ..
+  922  vim wektory.cpp 
+  923  cd build/
+  924  cmake --build .
+  925  ./wektory 
+  926  cd ..
+  927  ls
+  928  vim wektory.cpp 
+  929  cd build/
+  930  cmake --build .
+  931  ./wektory 
+  932  cd ..
+  933* 
+  934  cd ..
+  935  cd zadanie9
+  936  vim wektory.cpp 
+  937  cd build/
+  938  cmake --build .
+  939  ./wektory 
+  940  cd ..
+  941  ls
+  942  vim wektory.cpp 
+  943  cd build/
+  944  cmake --build .
+  945  cd ..
+  946  vim wektory.cpp 
+  947  cd build/
+  948  cmake --build .
+  949  ./wektory 
+  950  cd ..
+  951  vim wektory.cpp 
+  952  cd build/
+  953  cmake --build .
+  954  ./wektory 
+  955  cd ..
+  956  vim wektory.cpp 
+  957  cd build/
+  958  cmake --build .
+  959  ./wektory 
+  960  cd ..
+  961  vim wektory.cpp 
+  962  vim wektory.cpp 
+  963  cd build/
+  964  cmake --build .
+  965  ./wektory 
+  966  cd ..
+  967  vim wektory.cpp 
+  968  ls
+  969  cd ..
+  970  ls
+  971  cd ..
+  972  ls
+  973  cd ..
+  974  ls
+  975  cd ..
+  976  ls
+  977  cd linux
+  978  ls
+  979  cd ..
+  980  mv linux dev/kurs/repo
+  981  ls
+  982  cd dev
+  983  ls
+  984  cd kurs/
+  985  ls
+  986  cd repo
+  987  ls
+  988  cd ..
+  989  mv repo linux
+  990  ls
+  991  mkdir repo
+  992  ls
+  993  mv linux /repo
+  994  sudo linux /repo
+  995  ld
+  996  ls
+  997  cd repo
+  998  ls
+  999  cd ..
+ 1000  mkdir repo
+ 1001  clear
+ 1002  ls
+ 1003  cd linux
+ 1004  ls
+ 1005  cd ..
+ 1006  ls
+ 1007  rm repo
+ 1008  rmdir repo
+ 1009  ls
+ 1010  mv linux ./repo
+ 1011  ls
+ 1012  cd reop
+ 1013  ls repo/
+ 1014  ls
+ 1015  mv repo linux
+ 1016  ls
+ 1017  mkdir reop
+ 1018  rmdir reop
+ 1019  mkdir repo
+ 1020  mv linux /repo
+ 1021  ls
+ 1022  mv linux repo
+ 1023  ls
+ 1024  cd repo
+ 1025  ls
+ 1026  mkdir podstawy-cpp
+ 1027  cd podstawy-cpp/
+ 1028  git clone https://github.com/coders-school/cpp-fundamentals.git
+ 1029  ls
+ 1030  cd ..
+ 1031  ls
+ 1032  cd podstawy-cpp/
+ 1033  ls
+ 1034  mv cpp-fundamentals/ ..
+ 1035  cd ..
+ 1036  ls
+ 1037  rm podstawy-cpp/
+ 1038  rmdir podstawy-cpp/
+ 1039  ls
+ 1040  cd cpp-fundamentals/
+ 1041  ls
+ 1042  git checkout calculate 
+ 1043  ls
+ 1044  cd homework/calculate/
+ 1045  mkdir build
+ 1046  cd build/
+ 1047  cmake ..
+ 1048  make
+ 1049  ctest -V
+ 1050  ls
+ 1051  cd ..
+ 1052  ls
+ 1053  vim calculate.hpp 
+ 1054  ls
+ 1055  cd build
+ 1056  cmake ..
+ 1057  make
+ 1058  test -V
+ 1059  ctest -V
+ 1060  ls
+ 1061  cd ..
+ 1062  ls
+ 1063  vim calculate.hpp 
+ 1064  cd build/
+ 1065  cmake ..
+ 1066  cmake
+ 1067  ls
+ 1068  make
+ 1069  cd ..
+ 1070  ls
+ 1071  cd build
+ 1072  ctest -V
+ 1073  ls
+ 1074  cd ..
+ 1075  ls
+ 1076  vim test.cpp 
+ 1077  ls
+ 1078  vim calculate.hpp 
+ 1079  ls
+ 1080  cd build/
+ 1081  make
+ 1082  cd ..
+ 1083  ls
+ 1084  vim calculate.hpp 
+ 1085  cd build/
+ 1086  ls
+ 1087  make
+ 1088  ctest -V
+ 1089  ls
+ 1090  cd ../../..
+ 1091  ls
+ 1092  cd ../../../..
+ 1093  ls
+ 1094  cd dev
+ 1095  ls
+ 1096  cd kurs
+ 1097  ls
+ 1098  cd repo
+ 1099  ls
+ 1100  mkdir git-majonez
+ 1101  cd git-majonez/
+ 1102  git init
+ 1103  vim main.cpp
+ 1104  ls
+ 1105  add main.cpp
+ 1106  git add main.cpp
+ 1107  git status
+ 1108  git commit -m"Initial commit"
+ 1109  ls
+ 1110  vim main.cpp 
+ 1111  git status
+ 1112  git add main.cpp
+ 1113  git commit -m"Farewell changed"
+ 1114  git remote add origin https://github.com/skarAdev/git-majonez.git
+ 1115  git branch -M main
+ 1116  git push -u origin main
+ 1117  git remote add origin https://github.com/skarAdev/git-majonez.git
+ 1118  git branch -M main
+ 1119  git push -u origin main
+ 1120  git remote add origin https://github.com/skarAdev/git-majonez.git
+ 1121  git push -u origin main
+ 1122  git remote add origin https://github.com/skarAdev/git-majonez.git
+ 1123  git push -u origin main
+ 1124  gitremote set-url origin https://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/skarAdev/git-majonez
+ 1125  git remote set-url origin https://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/skarAdev/git-majonez
+ 1126  git push -u origin main
+ 1127  git config --global --unset https.proxy
+ 1128  git push -u origin main
+ 1129  git push origin main
+ 1130  git remote add origin https://github.com/skarAdev/git-majonez
+ 1131  git push -u origin master
+ 1132  git status
+ 1133  git add .
+ 1134  git push -u origin master
+ 1135  cd ~
+ 1136  ls
+ 1137  cd workspace/
+ 1138  ls
+ 1139  vim tekst.txt
+ 1140  ls
+ 1141  cd repo/
+ 1142  ls
+ 1143  cd ..
+ 1144  ls
+ 1145  cd dev
+ 1146  ls
+ 1147  cd kq
+ 1148  cd kurs/
+ 1149  ls
+ 1150  cd ls
+ 1151  cd repo/
+ 1152  ls
+ 1153  rm -r git-majonez/
+ 1154  sudo rm -r git-majonez/
+ 1155  ls
+ 1156  clear
+ 1157  mkdir git-majonez
+ 1158  cd git-majonez/
+ 1159  git init
+ 1160  ls -a
+ 1161  vim main.cpp
+ 1162  vim main.cpp
+ 1163  git add main.cpp
+ 1164  git status
+ 1165  git --help
+ 1166  git commit help
+ 1167  git commit --help
+ 1168  git commit -m"Initial commit"
+ 1169  vim main.cpp
+ 1170  git add main.cpp
+ 1171  git commit -m"Farewell changed"
+ 1172  git remote add origin https://github.com/skarAdev/git-majonez.git
+ 1173  git push -u origin main
+ 1174  git pull --rebase origin main
+ 1175  git status
+ 1176  git pull origin master
+ 1177  git pull --rebase origin main
+ 1178  git pull --rebase origin master
+ 1179  git push -u origin main
+ 1180  git log main
+ 1181  git log master
+ 1182  git log origin/master
+ 1183  git log origin/mUN
+ 1184  git log origin/main
+ 1185  git fetch origin
+ 1186  git merge origin/ main
+ 1187  ls
+ 1188  git remote add origin https://github.com/skarAdev/git-majonez
+ 1189  git push -u origin master
+ 1190  git push -u origin master
+ 1191  git remote add origin https://github.com/skarAdev/git-majonez
+ 1192  git push -u origin master
+ 1193  git branch cs
+ 1194  git reset --help
+ 1195  git status
+ 1196  git reflog
+ 1197  git show
+ 1198  git reset --hard
+ 1199  git show HEAD
+ 1200  git show ^HEAD
+ 1201  git log
+ 1202  git status
+ 1203  git checkout cs
+ 1204  git lo
+ 1205  git log
+ 1206  git reset --help
+ 1207  git reset --hard ^HEAD
+ 1208  git --reset --help
+ 1209  git reset --help
+ 1210  git reset --hard HEAD^
+ 1211  git log
+ 1212  ls
+ 1213  cd ../..
+ 1214  ls
+ 1215  cd repo/
+ 1216  ls
+ 1217  rm -r git-majonez/
+ 1218  sudo rm -r git-majonez/
+ 1219  ls
+ 1220  mkdir git-majonez
+ 1221  cd git-majonez/
+ 1222  git init
+ 1223  touch main.cpp
+ 1224  vim main.cpp 
+ 1225  add main.cpp
+ 1226  git add main.cpp
+ 1227  git commit -m"Initial commit"
+ 1228  vim main.cpp 
+ 1229  git commit -m"Farewell changed"
+ 1230  git add main.cpp
+ 1231  git commit -m"Farewell changed"
+ 1232  git log
+ 1233  git remote add origin https://github.com/skarAdev/git-majonez
+ 1234  git push -u origin master
+ 1235  git checkout -b cs
+ 1236  git log
+ 1237  git reset --hard HEAD^
+ 1238  git log
+ 1239  ls
+ 1240  vim main.cpp 
+ 1241  git add main.cpp
+ 1242  git commit -m"Greetings"
+ 1243  git push origin cs
+ 1244  git checkout master
+ 1245  git merge cs
+ 1246  git status
+ 1247  git diff --staged
+ 1248  cat main.cpp
+ 1249  vim main.cpp
+ 1250  git merge cs
+ 1251  git add main.cpp
+ 1252  git merge cs
+ 1253  gir commit -m"Fixed conflicts"
+ 1254  git commit -m"Fixed conflicts"
+ 1255  git merge cs
+ 1256  touch history.txt
+ 1257  history
+ 1258  tail --help
+ 1259  history
+ 1260  history | tail -40 >> history.txt 
+ 1261  ls
+ 1262  cat history.txt 
+ 1263  vim history.txt 
+ 1264  git add .
+ 1265  git commit -m"History added"
+ 1266  git push
+ 1267  ls
+ 1268  ls
+ 1269  cd ..
+ 1270  ls
+ 1271  rm -r git-majonez
+ 1272  sudo rm -r git-majonez
+ 1273  mkdir git-majonez
+ 1274  cd git-majonez/
+ 1275  git init
+ 1276  touch main.cpp
+ 1277  vim main.cpp 
+ 1278  add main.cpp
+ 1279  git add main.cpp
+ 1280  git commit -m"Initial commit"
+ 1281  vim main.cpp 
+ 1282  git add main.cpp
+ 1283  git commit -m"Farewell changed"
+ 1284  git remote add origin https://github.com/skarAdev/git-majonez
+ 1285  git push -u origin master
+ 1286  git push -u origin master
+ 1287  checkout -b cs
+ 1288  git checkout -b cs
+ 1289  git reset --hard HEAD^
+ 1290  vim main.cpp 
+ 1291  git add main.cpp
+ 1292  git commit -m"Greetings"
+ 1293  git push origin cs
+ 1294  git checkout master
+ 1295  git merge cs
+ 1296  git diff --staged
+ 1297  cat main.cpp
+ 1298  vim main.cpp 
+ 1299  git merge cs
+ 1300  vim main.cpp 
+ 1301  add .
+ 1302  git add .
+ 1303  git merge cs
+ 1304  git commit -m"Merge branch cs"
+ 1305  git merge cs
+ 1306  touch history.txt
+ 1307  history
+ 1308  ls
+ 1309  history | less -37 > history.txt 
